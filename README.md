@@ -1,10 +1,3 @@
 # phrases
 
-update
-
-update 2
-
-update 3
-
-update 4
-
+Now I try to work in this personal project
